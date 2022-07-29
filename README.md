@@ -6,4 +6,4 @@ there are 2 set of code
 2) by calling batch api and get multiple shares data at each time (much faster)
 
 
-the data contains in the SnP_constituents.csv file contains the constituents of SnP-500 companies, last updated on 29-July-2022
+the data contains in the SnP_constituents.csv file contains the list of SnP-500 companies, last updated on 29-July-2022
